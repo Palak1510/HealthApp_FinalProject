@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/healthwise"
+            android:textSize="30dp"
+            android:textColor="@color/LightGreen"
+            android:textStyle="bold"
+            android:layout_marginBottom="190dp"
+            android:gravity="top"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/patient"
+            android:layout_marginRight="90dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25dp"
+            android:text="@string/Patient"
+            android:textStyle="bold"
+            android:textColor="@color/LightGreen"/>
+        <Button
+            android:id="@+id/doctor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25dp"
+            android:text="@string/Doctor"
+            android:textStyle="bold"
+            android:textColor="@color/LightGreen"/>
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Healthwise App</string>
+    <string name="Activity">Activity</string>
+    <string name="Measurement">Measurement</string>
+    <string name="Heart">Heart</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="Mobility">Mobility</string>
+    <string name="Nutritions">Nutritions</string>
+    <string name="Respiratory">Respiratory</string>
+    <string name="SLEEP">Sleep</string>
+    <string name="Vitals">Vitals</string>
+    <string name="BloodPressure">Blood Pressure</string>
+    <string name="butnOthereData">Other Data</string>
+    <string name="Doctor">DOCTOR</string>
+    <string name="Patient">PATIENT</string>
+    <string name="medicine">Medicine</string>
+    <string name="steps">Steps,calories,flights</string>
+    <string name="Height">Height,weight</string>
+    <string name="WriteSymptoms">Write Your Symptoms</string>
+    <string name="HeartRate">Heart Rate</string>
+    <string name="WalkingDistance">Walking Distance</string>
+    <string name="MedicineTaken">MedicineTaken</string>
+    <string name="RespiratoryRate">Respiraory Rate</string>
+    <string name="AverageSleep">Average sleep</string>
+    <string name="BodyTemperature">Body Temperature</string>
+    <string name="BloodPressue">Blood Pressure</string>
+    <string name="OtherData">Other Data</string>
+    <string name="healthwise">Healthwise</string>
+    <string name="Name">Patient Name:</string>
+</resources>
